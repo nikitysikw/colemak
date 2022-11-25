@@ -1,0 +1,1 @@
+import{_ as c,r as s,o as l,c as n,b as a,w as _,t as o,u as i}from"./index.5e7ae069.js";const r=["onClick"],u={__name:"Click",setup(p){let e=s(0);function t(){e.value=e.value+1}return(f,d)=>(l(),n("main",null,[a("div",null,[a("button",{onClick:_(t,["left"])},"click me",8,r),a("span",null,o(i(e)),1)])]))}},m=c(u,[["__scopeId","data-v-9aa0af57"]]);export{m as default};
